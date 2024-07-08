@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, Bell, shield, Rocket  } from "../assets";
 
 export const navLinks = [
   {
@@ -22,7 +22,7 @@ export const navLinks = [
 export const features = [
   {
     id: "feature-1",
-    icon: star,
+    icon: Bell,
     title: "Real-Time Commit Notifications",
     content:
       "Receive instant notifications whenever collaborators make commits on GitHub repositories.",
@@ -36,7 +36,7 @@ export const features = [
   },
   {
     id: "feature-3",
-    icon: send,
+    icon: Rocket,
     title: "Lightweight and Fast",
     content:
       "Designed to be lightweight with minimal impact on system resources and fast notification delivery.",

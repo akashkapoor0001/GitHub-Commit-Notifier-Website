@@ -7,6 +7,8 @@ import dropbox from "./dropbox.png";
 import github from "./github.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
+import Rocket from "./Rocket.svg";
+import Bell from "./Bell.svg";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
@@ -34,6 +36,8 @@ export {
   github,
   quotes,
   robot,
+  Rocket,
+  Bell,
   send,
   shield,
   star,
