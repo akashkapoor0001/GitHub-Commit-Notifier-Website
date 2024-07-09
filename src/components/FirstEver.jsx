@@ -3,7 +3,7 @@ import styles, { layout } from "../style";
 import Button from "./Button";
 import { quotes } from "../assets";
 
-const CardDeal = () => (
+const FirstEver = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
@@ -27,4 +27,4 @@ const CardDeal = () => (
   </section>
 );
 
-export default CardDeal;
+export default FirstEver;
