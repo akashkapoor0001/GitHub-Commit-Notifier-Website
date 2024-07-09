@@ -1,5 +1,7 @@
 import airbnb from "./airbnb.png";
 import bill from "./bill.png";
+import Extension from "./Extension.png"
+import commit from "./commit.svg"
 import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
@@ -9,9 +11,7 @@ import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import Rocket from "./Rocket.svg";
 import Bell from "./Bell.svg";
-import send from "./Send.svg";
 import shield from "./Shield.svg";
-import star from "./Star.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import google from "./google.svg";
@@ -29,18 +29,18 @@ import people03 from "./people03.png";
 export {
   airbnb,
   bill,
+  Extension,
   binance,
   card,
   coinbase,
   dropbox,
   github,
+  commit,
   quotes,
   robot,
   Rocket,
   Bell,
-  send,
   shield,
-  star,
   menu,
   close,
   google,
