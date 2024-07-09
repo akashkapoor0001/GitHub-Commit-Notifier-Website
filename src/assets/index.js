@@ -16,6 +16,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import google from "./google.svg";
 import apple from "./apple.svg";
+import Chrome from "./Chrome.png"
 import arrowUp from "./arrow-up.svg";
 import discount from "./Discount.svg";
 import facebook from "./facebook.svg";
@@ -44,6 +45,7 @@ export {
   menu,
   close,
   google,
+  Chrome,
   apple,
   arrowUp,
   discount,
