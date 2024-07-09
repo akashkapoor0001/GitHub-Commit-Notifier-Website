@@ -1,18 +1,22 @@
 import { card } from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
+import { quotes } from "../assets";
 
 const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+      <img src={quotes} alt="double_quotes" className="w-[30.6px] h-[25.6px] object-contain" />
+      Discover the best {" "}
+      <span className="text-gradient">GitHub Commit Notifier </span> {" "}
+      effortlessly with our first ever extension for real-time notifications.
+      <br className="sm:block hidden" /> 
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Get started in just a few simple steps!
       </p>
+      
 
       <Button styles={`mt-10`} />
     </div>
