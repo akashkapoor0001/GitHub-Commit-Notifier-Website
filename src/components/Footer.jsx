@@ -8,11 +8,11 @@ const Footer = () => (
       <div className="flex-[1] flex flex-col justify-start mr-10">
         <img
           src={github}
-          alt="hoobank"
-          className="w-[266px] h-[72.14px] object-contain"
+          alt="GitHub-Commit-Notifier"
+          className="w-[266px] h-[72.14px] object-contain ml-4"
         />
-        <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-          A new way to make the payments easy, reliable and secure.
+        <p className={`${styles.paragraph} mt-4 max-w-[312px] text-center`}>
+        Enhancing collaboration & teamwork with real-time GitHub commit notifications.
         </p>
       </div>
 
