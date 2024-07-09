@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, Bell, shield, Rocket  } from "../assets";
+import { people01, people02, people03, Portfolio, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, Bell, shield, Rocket  } from "../assets";
 
 export const navLinks = [
   {
@@ -148,22 +148,17 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/akashkapoor__?igsh=MTR5MWdzZ3h0Y3NoYg==",
   },
   {
     id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
-  },
-  {
-    id: "social-media-3",
-    icon: twitter,
-    link: "https://www.twitter.com/",
+    icon: Portfolio,
+    link: "https://akashkapoor.vercel.app/",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/akash-kapoor-025733230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
 ];
 

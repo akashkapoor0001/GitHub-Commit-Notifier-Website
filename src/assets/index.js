@@ -19,7 +19,7 @@ import apple from "./apple.svg";
 import Chrome from "./Chrome.png"
 import arrowUp from "./arrow-up.svg";
 import discount from "./Discount.svg";
-import facebook from "./facebook.svg";
+import Portfolio from "./Portfolio.png"
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
@@ -49,7 +49,7 @@ export {
   apple,
   arrowUp,
   discount,
-  facebook,
+  Portfolio,
   instagram,
   linkedin,
   twitter,
