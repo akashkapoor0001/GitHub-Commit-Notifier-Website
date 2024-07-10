@@ -1,4 +1,4 @@
-# GitHub Commit Notifier Extension
+# GitHub Commit Notifier Website
 
 ![img](https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/9d91722f-35c8-4cf2-8ea9-ab5ce7524121)
 
