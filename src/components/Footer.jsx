@@ -9,9 +9,9 @@ const Footer = () => (
         <img
           src={github}
           alt="GitHub-Commit-Notifier"
-          className="w-[266px] h-[72.14px] object-contain ml-4"
+          className="w-[266px] h-[72.14px] object-contain ml-9"
         />
-        <p className={`${styles.paragraph} mt-4 max-w-[312px] text-center`}>
+        <p className={`${styles.paragraph} mt-4 ml-4 max-w-[312px] text-center`}>
         Enhancing collaboration & teamwork with real-time GitHub commit notifications.
         </p>
       </div>
