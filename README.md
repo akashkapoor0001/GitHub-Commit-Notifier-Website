@@ -24,7 +24,8 @@ Enhance collaboration and stay updated with real-time GitHub commit notification
 
 GitHub Commit Notifier is a Chrome extension designed to keep you informed about the latest commits from your collaborators on GitHub. Whether you're managing a team project or contributing to open-source repositories, stay in the loop with instant notifications.
 
-![Screenshot of GitHub Commit Notifier](link/to/screenshot.png)
+![Extension](https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/33959f2a-0ccf-416a-8000-10a2bc41ee06)
+
 
 ## Features
 
