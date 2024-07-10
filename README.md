@@ -1,6 +1,7 @@
 # GitHub Commit Notifier Website
 
-You can view the website by clicking on this link = {https://github-commit-notifier.vercel.app}
+You can view the website by clicking on this icon [<img src="https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/a8adf789-edf9-4ebe-bbd6-d35ecb61bc91" alt="github" width="30" height="30">](https://github-commit-notifier.vercel.app/)
+
 
 ![img](https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/9d91722f-35c8-4cf2-8ea9-ab5ce7524121)
 
