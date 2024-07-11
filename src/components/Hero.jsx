@@ -54,6 +54,7 @@ import { useSpring, animated } from "react-spring";
 import styles from "../style";
 import { discount, github } from "../assets";
 import GetStarted from "./GetStarted";
+import PlayVideo from "./PlayVideo";
 
 const Hero = () => {
   const textAnimation = useSpring({
@@ -93,7 +94,7 @@ const Hero = () => {
           </animated.h1>
           <div className="ss:flex hidden md:mr-4 mr-0">
             <animated.div style={buttonAnimation}>
-              <GetStarted />
+              <PlayVideo />
             </animated.div>
           </div>
         </div>
@@ -126,7 +127,7 @@ const Hero = () => {
 
       <div className={`ss:hidden ${styles.flexCenter}`}>
         <animated.div style={buttonAnimation}>
-          <GetStarted />
+          <PlayVideo />
         </animated.div>
       </div>
     </section>
