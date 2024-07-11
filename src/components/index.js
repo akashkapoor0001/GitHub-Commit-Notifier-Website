@@ -5,7 +5,7 @@ import Business from "./Code";
 import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
-import Testimonials from "./Testimonials";
+import Developer from "./Developer";
 import Hero from "./Hero";
 
 export {
@@ -16,6 +16,6 @@ export {
   CTA,
   Stats,
   Footer,
-  Testimonials,
+  Developer,
   Hero,
 };
