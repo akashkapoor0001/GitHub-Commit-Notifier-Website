@@ -52,8 +52,7 @@
 import React from "react";
 import { useSpring, animated } from "react-spring";
 import styles from "../style";
-import { discount, github } from "../assets";
-import GetStarted from "./GetStarted";
+import { github } from "../assets";
 import PlayVideo from "./PlayVideo";
 
 const Hero = () => {
