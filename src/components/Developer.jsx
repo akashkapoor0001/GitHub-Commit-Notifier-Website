@@ -13,11 +13,9 @@ const Testimonials = () => (
           <span className="text-gradient">Developer</span>{" "}
         </h2>
       </div>
-      <div className="w-full md:mt-0 mt-6">
-        <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-        Crafted with passion and precision by a coding enthusiast who loves turning ideas into reality. Dive into the seamless functionality and elegant design brought to you by the creative mind behind this project. This project {''}
-        <span className="text-gradient">GitHub Commit Notifier</span>{" "} is designed to make it easier to keep track of your collaborators' commits in real-time. {" "}
-        <span className="flex-1 font-poppins font-semibold ss:text-[25px] text-[15px] text-gradient">~Akash Kapoor</span>
+      <div className="md:w-1/2 w-full md:mt-0 mt-6 text-right">
+        <p className={`${styles.paragraph} text-left md:text-right max-w-[450px] mx-auto`}>
+          Crafted with passion and precision by a coding enthusiast who loves turning ideas into reality. Dive into the seamless functionality and elegant design brought to you by the creative mind behind this project. This project <span className="text-gradient">GitHub Commit Notifier</span> is designed to make it easier to keep track of your collaborators' commits in real-time. <span className="flex-1 font-poppins font-semibold ss:text-[25px] text-[15px] text-gradient">~Akash Kapoor</span>
         </p>
       </div>
     </div>
