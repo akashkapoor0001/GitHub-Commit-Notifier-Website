@@ -187,10 +187,9 @@
 
 @media screen and (max-width: 768px) {
   .navbar {
-    /* Adjustments for smaller screens */
-    /* Example: Make the navbar full width */
-    width: 100%;
-    /* Example: Reduce padding */
-    padding: 10px;
+    width: 100%; /* Make the navbar full width */
+    flex-direction: row; /* Ensure items are in a horizontal line */
+    justify-content: flex-end; /* Align items to the right */
+    padding: 10px; /* Example: Reduce padding */
   }
 }
