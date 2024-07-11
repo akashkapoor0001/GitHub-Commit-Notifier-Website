@@ -116,9 +116,11 @@ const Hero = () => {
         <img src={github} alt="billing" className="w-[480px] h-[480px] relative z-[5] wavy-image" />
 
         {/* gradient */}
-        <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
-        <div className="absolute z-[1] w-[80%] h-[80%] rounded-full white__gradient bottom-40" />
-        <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient" />
+        {/* <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
+        <div className="absolute z-[1] w-[80%] h-[80%] rounded-full white__gradient bottom-40" /> */}
+        <div className="absolute z-[0] w-[70%] h-[70%] right-40 bottom-30 blue__gradient" />
+        <div className="absolute z-[0] w-[70%] h-[70%] left-40 top-0 blue__gradient" />
+
         {/* gradient */}
       </animated.div>
 
