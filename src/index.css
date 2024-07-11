@@ -190,8 +190,6 @@
     /* Adjustments for smaller screens */
     /* Example: Make the navbar full width */
     width: 100%;
-    /* Example: Stack items vertically */
-    flex-direction: column;
     /* Example: Reduce padding */
     padding: 10px;
   }
