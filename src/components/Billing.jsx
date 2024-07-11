@@ -1,4 +1,4 @@
-import { Chrome, Extension, google } from "../assets";
+import { Chrome, Extension } from "../assets";
 import styles, { layout } from "../style";
 
 const Billing = () => (
@@ -18,6 +18,13 @@ const Billing = () => (
         <path d="M23 28l4.5 4.5 9-9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
         <text x="52" y="32" fill="#000000" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Great! Committed successfully</text>
       </svg>
+      <svg width="300" height="60" viewBox="0 0 300 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="298" height="50" rx="28" fill="white" stroke="#E0E0E0" stroke-width="2"/>
+  <circle cx="30" cy="27" r="15" fill="#3a6b98"/> 
+  <path d="M23 28l4.5 4.5 9-9" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="52" y="32" fill="#000000" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Notified to the collaborators!</text>
+</svg>
+
     </div>
 
     </div>
