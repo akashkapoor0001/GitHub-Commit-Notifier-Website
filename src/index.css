@@ -161,3 +161,24 @@
 .wavy-image {
   animation: wave 3s infinite ease-in-out;
 }
+
+
+
+
+.fixed-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  backdrop-filter: blur(8px); /* Optional: Adds a blur effect to the background */
+  z-index: 1000; /* Adjust z-index as needed */
+  padding: 1rem 6rem; /* Adjust padding as needed */
+  transition: background-color 0.3s ease; /* Smooth transition for padding */
+  background-color: rgba(0, 0, 0, 0.8); /* Adjust opacity as needed */
+
+}
+
+/* Reduce padding when scrolled */
+.fixed-navbar.scrolled {
+  padding: 0.5rem 6rem;
+}
