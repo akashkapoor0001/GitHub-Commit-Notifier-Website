@@ -2,7 +2,7 @@ import { feedback } from "../constants";
 import styles from "../style";
 import FeedbackCard from "./FeedbackCard";
 
-const Testimonials = () => (
+const Developer = () => (
   <section id="developer" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}>
     <div className="absolute z-[0] w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient bottom-40" />
 
@@ -15,7 +15,7 @@ const Testimonials = () => (
       </div>
       <div className="md:w-1/2 w-full md:mt-0 mt-6 text-right">
         <p className={`${styles.paragraph} text-left md:text-right max-w-[450px] mx-auto`}>
-          Crafted with passion and precision by a coding enthusiast who loves turning ideas into reality. Dive into the seamless functionality and elegant design brought to you by the creative mind behind this project. This project <span className="text-gradient">GitHub Commit Notifier</span> is designed to make it easier to keep track of your collaborators' commits in real-time. <span className="flex-1 font-poppins font-semibold ss:text-[25px] text-[15px] text-gradient">~Akash Kapoor</span>
+          Crafted with passion and precision by a coding enthusiast who loves turning ideas into reality. Dive into the seamless functionality and elegant design brought to you by the creative mind behind this project. This project <span className="text-gradient font-semibold">GitHub Commit Notifier</span> is designed to make it easier to keep track of your collaborators' commits in real-time. <span className="flex-1 font-poppins font-semibold ss:text-[25px] text-[15px] text-gradient">~Akash Kapoor</span>
         </p>
       </div>
     </div>
@@ -28,4 +28,4 @@ const Testimonials = () => (
   </section>
 );
 
-export default Testimonials;
+export default Developer;
