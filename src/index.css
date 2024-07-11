@@ -182,3 +182,17 @@
 .fixed-navbar.scrolled {
   padding: 0.5rem 6rem;
 }
+
+
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    /* Adjustments for smaller screens */
+    /* Example: Make the navbar full width */
+    width: 100%;
+    /* Example: Stack items vertically */
+    flex-direction: column;
+    /* Example: Reduce padding */
+    padding: 10px;
+  }
+}
