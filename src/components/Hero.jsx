@@ -113,7 +113,13 @@ const Hero = () => {
         style={imageAnimation}
         className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}
       >
-        <img src={github} alt="billing" className="w-[550px] h-[550px] relative z-[5] wavy-image" />
+        {/* <img src={github} alt="billing" className="w-[550px] h-[550px] relative z-[5] wavy-image" /> */}
+        <img 
+  src={github} 
+  alt="billing" 
+  className="w-[550px] h-[550px] sm:w-[400px] sm:h-[400px] xs:w-[300px] xs:h-[300px] rounded-full object-cover relative z-[5] wavy-image"
+/>
+
 
         {/* gradient */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />
