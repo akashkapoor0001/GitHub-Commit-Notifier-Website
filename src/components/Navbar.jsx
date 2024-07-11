@@ -211,10 +211,10 @@ const Navbar = () => {
       setScrollY(window.scrollY);
       setIsScrolled(window.scrollY > 0); // Check if scrolled down
     };
-  
+
     // Initial check on mount
     setIsScrolled(window.scrollY > 0);
-  
+
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
@@ -226,14 +226,13 @@ const Navbar = () => {
       }`}
       style={itemAnimation}
     >
-<div className="flex items-center ml-[-23px] mt-[12px]">
-  <img src={github} alt="GitHub Logo" className="w-[50px] h-[50px]" />
-  <div className="text-white flex items-center ml-2">
-    <span className="text-[#4882ba] font-bold text-xl mr-1">GitHub</span>{" "}
-    <span className="font-light text-xl">Commit Notifier</span>
-  </div>
-</div>
-
+      <div className="flex items-center ml-[-24px] mt-[12px]">
+        <img src={github} alt="GitHub Logo" className="w-[50px] h-[50px]" />
+        <div className="text-white flex items-center ml-2">
+          <span className="text-[#4882ba] font-bold text-xl mr-1">GitHub</span>{" "}
+          <span className="font-light text-xl">Commit Notifier</span>
+        </div>
+      </div>
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
         {navLinks.map((nav, index) => (
@@ -288,3 +287,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
