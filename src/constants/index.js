@@ -47,26 +47,26 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
-    img: people01,
+      "Efficiency in collaboration is achieved when you can track your team's progress in real-time.",
+    name: "Akash Kapoor",
+    title: "Founder & Developer",
+    img: people01
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
-    img: people02,
+      "Code is only a tool. It will take you wherever you wish, but it will not replace you as the developer.",
+    name: "Akash Kapoor",
+    title: "Founder & Developer",
+    img: people02
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
-    img: people03,
+      "In the world of coding, keeping track of every change is the key to success.",
+    name: "Akash Kapoor",
+    title: "Founder & Developer",
+    img: people03
   },
 ];
 
