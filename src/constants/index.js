@@ -1,4 +1,4 @@
-import { people01, people02, people03, Portfolio, instagram, linkedin, Bell, shield, Rocket  } from "../assets";
+import { people01, people02, people03, Portfolio, instagram, linkedin, Bell, shield, Rocket, warning  } from "../assets";
 
 export const navLinks = [
   {
@@ -40,6 +40,13 @@ export const features = [
     title: "Lightweight and Fast",
     content:
       "Designed to be lightweight with minimal impact on system resources and fast notification delivery.",
+  },
+  {
+    id: "feature-4",
+    icon: warning,
+    title: "Sensitive Commit Detection",
+    content:
+      "Detects sensitive commits and notifies you to take immediate action to prevent data breaches.",
   },
 ];
 

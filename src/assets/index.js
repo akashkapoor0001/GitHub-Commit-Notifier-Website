@@ -10,6 +10,7 @@ import github from "./github.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import Rocket from "./Rocket.svg";
+import warning from "./warning.svg";
 import Bell from "./Bell.svg";
 import shield from "./Shield.svg";
 import menu from "./menu.svg";
@@ -42,6 +43,7 @@ export {
   Rocket,
   Bell,
   shield,
+  warning,
   menu,
   close,
   google,
