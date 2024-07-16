@@ -68,14 +68,6 @@ export const feedback = [
   },
 ];
 
-export const stats = [
-  {
-    id: "stats-1",
-    title: "User Active",
-    value: "3800+",
-  },
-];
-
 export const footerLinks = [
   {
     title: "Useful Links",
