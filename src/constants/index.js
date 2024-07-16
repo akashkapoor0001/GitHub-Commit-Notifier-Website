@@ -1,4 +1,4 @@
-import { people01, people02, people03, Portfolio, instagram, linkedin, Bell, shield, Rocket, warning  } from "../assets";
+import { Portfolio, instagram, linkedin, Bell, shield, Rocket, warning  } from "../assets";
 
 export const navLinks = [
   {
@@ -55,25 +55,16 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Efficiency in collaboration is achieved when you can track your team's progress in real-time.",
-    name: "Akash Kapoor",
-    title: "Founder & Developer",
-    img: people01
   },
   {
     id: "feedback-2",
     content:
       "Code is only a tool. It will take you wherever you wish, but it will not replace you as the developer.",
-    name: "Akash Kapoor",
-    title: "Founder & Developer",
-    img: people02
   },
   {
     id: "feedback-3",
     content:
       "In the world of coding, keeping track of every change is the key to success.",
-    name: "Akash Kapoor",
-    title: "Founder & Developer",
-    img: people03
   },
 ];
 
