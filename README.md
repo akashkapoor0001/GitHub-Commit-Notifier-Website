@@ -4,12 +4,9 @@ You can view the website by clicking on this icon [<img src="https://github.com/
 
 ![landingpage](https://github.com/user-attachments/assets/49405236-18ee-4d99-ba90-7089874af656)
 
+![page 2](https://github.com/user-attachments/assets/c2cec0b0-b42a-45e8-a3c9-9e71fb6a3506)
 
-![img2](https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/e0d7a74f-d3c7-4dbb-bff6-e404917baa0b)
-
-
-![img3](https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/31f66d23-23fa-414b-b8c7-e77ce57f50d8)
-
+![page 3](https://github.com/user-attachments/assets/51a85b0f-c940-4130-ad4b-3fc5c14010a7)
 
 Enhance collaboration and stay updated with real-time GitHub commit notifications using this intuitive Chrome extension.
 
