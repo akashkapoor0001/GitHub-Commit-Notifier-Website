@@ -7,6 +7,7 @@ import Footer from "./Footer";
 import Developer from "./Developer";
 import Hero from "./Hero";
 import StartTour from "./StartTour";
+import BackToTopButton from "./BacktoTop";
 
 export {
   Navbar,
@@ -18,4 +19,5 @@ export {
   Developer,
   Hero,
   StartTour,
+  BackToTopButton,
 };
