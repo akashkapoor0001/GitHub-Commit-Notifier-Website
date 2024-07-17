@@ -2,8 +2,7 @@
 
 You can view the website by clicking on this icon [<img src="https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/a8adf789-edf9-4ebe-bbd6-d35ecb61bc91" alt="github" width="30" height="30">](https://github-commit-notifier-website.vercel.app/)
 
-
-![img](https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/9d91722f-35c8-4cf2-8ea9-ab5ce7524121)
+![landingpage](https://github.com/user-attachments/assets/49405236-18ee-4d99-ba90-7089874af656)
 
 
 ![img2](https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/e0d7a74f-d3c7-4dbb-bff6-e404917baa0b)
