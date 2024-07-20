@@ -2,7 +2,7 @@ import Extension from "./Extension.png"
 import commit from "./commit.svg"
 import github from "./github.png";
 import details from "./details.png";
-import circle from "./circle.png";
+import card from "./card.png";
 import quotes from "./quotes.svg";
 import Rocket from "./Rocket.svg";
 import warning from "./warning.svg";
@@ -21,7 +21,7 @@ export {
   commit,
   github,
   details,
-  circle,
+  card,
   quotes,
   Rocket,
   warning,

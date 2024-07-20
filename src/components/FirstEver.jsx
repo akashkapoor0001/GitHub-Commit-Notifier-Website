@@ -1,4 +1,4 @@
-import { circle } from "../assets";
+import { card } from "../assets";
 import styles, { layout } from "../style";
 import Button from "./Button";
 import { quotes } from "../assets";
@@ -21,7 +21,7 @@ const FirstEver = () => (
     </div>
 
     <div className={layout.sectionImg}>
-      <img src={circle} alt="billing" className="w-[100%] h-[100%]" />
+      <img src={card} alt="billing" className="w-[100%] h-[100%]" />
     </div>
   </section>
 );
