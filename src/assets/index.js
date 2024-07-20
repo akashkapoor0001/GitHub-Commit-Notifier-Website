@@ -1,5 +1,3 @@
-import airbnb from "./airbnb.png";
-import bill from "./bill.png";
 import Extension from "./Extension.png"
 import commit from "./commit.svg"
 import binance from "./binance.png";
@@ -8,6 +6,7 @@ import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import github from "./github.png";
 import details from "./details.png";
+import circle from "./circle.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import Rocket from "./Rocket.svg";
@@ -30,8 +29,6 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 
 export {
-  airbnb,
-  bill,
   Extension,
   binance,
   card,
@@ -39,6 +36,7 @@ export {
   dropbox,
   github,
   details,
+  circle,
   commit,
   quotes,
   robot,
