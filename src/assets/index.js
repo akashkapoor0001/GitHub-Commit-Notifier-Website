@@ -7,6 +7,7 @@ import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import github from "./github.png";
+import details from "./details.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import Rocket from "./Rocket.svg";
@@ -37,6 +38,7 @@ export {
   coinbase,
   dropbox,
   github,
+  details,
   commit,
   quotes,
   robot,
