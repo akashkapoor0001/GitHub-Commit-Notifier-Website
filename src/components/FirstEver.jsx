@@ -16,7 +16,6 @@ const FirstEver = () => (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       Get started in just a few simple steps!
       </p>
-      
 
       <Button styles={`mt-10`} />
     </div>
