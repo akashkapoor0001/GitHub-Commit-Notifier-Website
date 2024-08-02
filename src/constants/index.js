@@ -1,4 +1,4 @@
-import { Portfolio, instagram, linkedin, Bell, shield, Rocket, warning, details} from "../assets";
+import { Portfolio, instagram, linkedin, Bell, shield, Rocket, warning, details, userIcon} from "../assets";
 
 export const navLinks = [
   {
@@ -49,12 +49,19 @@ export const features = [
       "Detects sensitive commits and notifies you to take immediate action to prevent data breaches.",
   },
   {
-    id: "feature-6",
+    id: "feature-5",
     icon: details,
     title: "Commit Details Viewer",
     content:
       "Displays detailed commit information when clicking the 'Show Details' button. Includes before and after commit changes, with highlights for additions and deletions.",
-  }  
+  } ,
+  {
+    id: "feature-6",
+    icon: userIcon,
+    title: "Add/See Users",
+    content: "Allows you to add new users to track commits and view the list of added users."
+  }
+  
 ];
 
 export const feedback = [

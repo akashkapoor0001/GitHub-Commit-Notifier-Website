@@ -15,6 +15,7 @@ import arrowUp from "./arrow-up.svg";
 import Portfolio from "./Portfolio.png"
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
+import userIcon from "./userIcon.png"
 
 export {
   Extension,
@@ -34,4 +35,5 @@ export {
   Portfolio,
   instagram,
   linkedin,
+  userIcon,
 };
