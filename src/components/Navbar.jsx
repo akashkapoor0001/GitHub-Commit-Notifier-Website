@@ -108,6 +108,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
   const [scrollY, setScrollY] = useState(0);
   const [isScrolled, setIsScrolled] = useState(false);
+  const [visitorCount, setVisitorCount] = useState(0);
 
   // Animation for the navbar items to slide in from the left
   const itemAnimation = useSpring({
@@ -148,6 +149,20 @@ const Navbar = () => {
     }
   };
 
+  // Increment visitor count for demonstration purposes
+  useEffect(() => {
+    let isVisited = sessionStorage.getItem("isVisited");
+    if (!isVisited) {
+      let count = parseInt(localStorage.getItem("visitorCount")) || 0;
+      count += 1;
+      localStorage.setItem("visitorCount", count);
+      sessionStorage.setItem("isVisited", "true");
+      setVisitorCount(count);
+    } else {
+      setVisitorCount(parseInt(localStorage.getItem("visitorCount")) || 0);
+    }
+  }, []);
+
   return (
     <animated.nav
       className={`w-full flex py-3 px-6 justify-between items-center navbar relative z-10 ${
@@ -176,6 +191,9 @@ const Navbar = () => {
             {nav.title}
           </animated.li>
         ))}
+        <li className="ml-6 visitor-counter">
+          Visitors: {visitorCount}
+        </li>
       </ul>
 
       <div className="sm:hidden flex flex-1 justify-end items-center z-20">
@@ -207,6 +225,9 @@ const Navbar = () => {
                   {nav.title}
                 </animated.li>
               ))}
+              <li className="mt-4 visitor-counter">
+                Visitors: {visitorCount}
+              </li>
             </ul>
           </animated.div>
         )}
@@ -216,4 +237,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
 
