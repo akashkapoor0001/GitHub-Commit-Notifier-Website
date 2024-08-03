@@ -187,7 +187,11 @@
   .navbar {
     width: 100%;
     flex-direction: column;
-    padding: 10px;
+    padding: 10px 20px;
+  }
+
+  .navbar-item {
+    line-height: 1.5;
   }
 }
 
