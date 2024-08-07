@@ -1,6 +1,7 @@
 import Extension from "./Extension.png"
 import commit from "./commit.svg"
 import github from "./github.png";
+import github_black from "./github_black.png";
 import details from "./details.png";
 import card from "./card.png";
 import quotes from "./quotes.svg";
@@ -21,6 +22,7 @@ export {
   Extension,
   commit,
   github,
+  github_black,
   details,
   card,
   quotes,

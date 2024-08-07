@@ -52,8 +52,9 @@
 import React from "react";
 import { useSpring, animated } from "react-spring";
 import styles from "../style";
-import { github } from "../assets";
+import { github_black } from "../assets";
 import PlayVideo from "./PlayVideo";
+import "../index.css";
 
 const Hero = () => {
   const textAnimation = useSpring({
@@ -113,7 +114,7 @@ const Hero = () => {
         style={imageAnimation}
         className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}
       >
-        <img src={github} alt="billing" className="w-[480px] h-[480px] relative z-[5] wavy-image" />
+        <img src={github_black} alt="billing" className="w-[480px] h-[480px] relative z-[5] wavy-image" />
 
         {/* gradient */}
         {/* <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />

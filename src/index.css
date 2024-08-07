@@ -129,7 +129,7 @@
 }
 
 .blue__gradient {
-  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
+  background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #2c77bc 100%);
   filter: blur(123px);
 }
 
@@ -238,3 +238,8 @@
   box-shadow: 0 0 10px 3px rgba(0, 191, 255, 0.8); /* Neon blue shadow effect */
 }
 
+.wavy-image {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
