@@ -2,11 +2,11 @@
 
 You can view the website by clicking on this icon [<img src="https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/a8adf789-edf9-4ebe-bbd6-d35ecb61bc91" alt="github" width="30" height="30">](https://github-commit-notifier-website.vercel.app/)
 
-![landingpage](https://github.com/user-attachments/assets/49405236-18ee-4d99-ba90-7089874af656)
+![Home](https://github.com/user-attachments/assets/4a75c705-27af-4ca3-8906-819f31f9f0b5)
 
-![page 2](https://github.com/user-attachments/assets/c2cec0b0-b42a-45e8-a3c9-9e71fb6a3506)
+![Features](https://github.com/user-attachments/assets/1fc350a0-23d8-4507-af17-39ceaaddfdda)
 
-![page 3](https://github.com/user-attachments/assets/51a85b0f-c940-4130-ad4b-3fc5c14010a7)
+![Product](https://github.com/user-attachments/assets/85ae7b77-1aa6-48ed-8843-56d2e0ec1982)
 
 Enhance collaboration and stay updated with real-time GitHub commit notifications using this intuitive Chrome extension.
 
@@ -23,7 +23,7 @@ Enhance collaboration and stay updated with real-time GitHub commit notification
 
 GitHub Commit Notifier is a Chrome extension designed to keep you informed about the latest commits from your collaborators on GitHub. Whether you're managing a team project or contributing to open-source repositories, stay in the loop with instant notifications.
 
-![Extension](https://github.com/akashkapoor0001/GitHub-Commit-Notifier-Website/assets/66661806/33959f2a-0ccf-416a-8000-10a2bc41ee06)
+![Extension](https://github.com/user-attachments/assets/7575085f-db77-4968-a297-03f7d7a0593c)
 
 
 ## Features
